@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Ilias Tsagklis
+N;CHARSET=UTF-8:Ilias Tsagklis;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Nafpaktias 18;Kesariani;Attica;16121;Greece
+EMAIL:support@javacodegeeks.com
+ORG:Exelixis Media P.C.
+URL:http://www.javacodegeeks.com
+END:VCARD
