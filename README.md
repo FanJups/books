@@ -12,3 +12,7 @@ https://www.bestcours.com/
 ## OREILLY PROGRAMMING FREE BOOKS
 
 https://www.oreilly.com/programming/free/
+
+## PACKTPUB
+
+https://www.packtpub.com/packt/offers/free-learning
