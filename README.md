@@ -8,3 +8,7 @@ https://openclassrooms.com/fr/old-courses-pdf
 ## BestCours
 
 https://www.bestcours.com/
+
+## OREILLY PROGRAMMING FREE BOOKS
+
+https://www.oreilly.com/programming/free/
