@@ -16,3 +16,5 @@ https://www.oreilly.com/programming/free/
 ## PACKTPUB
 
 https://www.packtpub.com/packt/offers/free-learning
+
+https://www.freetechbooks.com/packt-free-ebooks-b81.html
